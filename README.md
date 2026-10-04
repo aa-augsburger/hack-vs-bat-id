@@ -12,7 +12,7 @@ Le livrable est un **fichier HTML autonome** (CSS + JS embarqués, aucune dépen
 
 - **En local :** ouvrez `index.html` dans un navigateur (double-clic suffit).
 - **Prototypes cliquables :** `demos/Bat-ID-mobile-prototype.html` (mobile) et `demos/Bat-ID-desktop-prototype.html` (desktop).
-- **Démo vidéo :** `presentation/video_demo.mp4`.
+- **Démo vidéo :** `presentation/video_demo.mp4` et `presentation/mobile-live-demo.mov`.
 - **En ligne :** activez GitHub Pages sur la branche `main` (racine) → `https://aa-augsburger.github.io/hack-vs-bat-id/`.
 
 | Fichier | Description |
@@ -21,6 +21,7 @@ Le livrable est un **fichier HTML autonome** (CSS + JS embarqués, aucune dépen
 | `demos/Bat-ID-mobile-prototype.html` | Prototype mobile cliquable (autonome) |
 | `demos/Bat-ID-desktop-prototype.html` | Prototype desktop cliquable (autonome) |
 | `presentation/video_demo.mp4` | Vidéo de démonstration |
+| `presentation/mobile-live-demo.mov` | Démo mobile filmée |
 | `docs/maquettes/desktop.pdf` | Maquettes desktop (109 pages, version compressée) |
 | `docs/maquettes/mobile.pdf` | Maquettes mobile (170 pages) |
 | `docs/cahier-des-charges.md` | Cahier des charges du challenge |
