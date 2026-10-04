@@ -33,6 +33,10 @@ Le livrable est un **fichier HTML autonome** (CSS + JS embarqués, aucune dépen
 
 Maquettes et prototypes mis en forme dans Figma : [Hack-VS Bat-ID](https://www.figma.com/design/tfyEVyPFbpqG3g6kquxmNm/ULTIME-Final?node-id=39-1008&t=PkQjRuBHUz6rBjRk-1) (mot de passe : `hackvs`).
 
+## Canva
+
+Link : `https://canva.link/02a5badawqsdfk2`
+
 ## Contexte
 
 [Bat-ID](https://bat-i.ch) est une application suisse pour les propriétaires immobiliers (écosystème Bat-i) : suivi de parcelles, zones d'alerte, notifications du Bulletin officiel, documents du bien, partages sécurisés, espaces partagés.
