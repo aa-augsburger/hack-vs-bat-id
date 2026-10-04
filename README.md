@@ -11,19 +11,26 @@ Challenge : *« Comment optimiser l'application Bat-ID pour offrir une expérien
 Le livrable est un **fichier HTML autonome** (CSS + JS embarqués, aucune dépendance) :
 
 - **En local :** ouvrez `index.html` dans un navigateur (double-clic suffit).
-- **Prototype mobile cliquable :** ouvrez `demos/Bat-ID-mobile-prototype.html` dans un navigateur.
+- **Prototypes cliquables :** `demos/Bat-ID-mobile-prototype.html` (mobile) et `demos/Bat-ID-desktop-prototype.html` (desktop).
+- **Démo vidéo :** `presentation/video_demo.mp4`.
 - **En ligne :** activez GitHub Pages sur la branche `main` (racine) → `https://aa-augsburger.github.io/hack-vs-bat-id/`.
 
 | Fichier | Description |
 |---|---|
 | `index.html` | Livrable final : diagnostic, parcours mobile + desktop, corrections, roadmap, KPIs |
 | `demos/Bat-ID-mobile-prototype.html` | Prototype mobile cliquable (autonome) |
+| `demos/Bat-ID-desktop-prototype.html` | Prototype desktop cliquable (autonome) |
+| `presentation/video_demo.mp4` | Vidéo de démonstration |
 | `docs/maquettes/desktop.pdf` | Maquettes desktop (109 pages, version compressée) |
 | `docs/maquettes/mobile.pdf` | Maquettes mobile (170 pages) |
 | `docs/cahier-des-charges.md` | Cahier des charges du challenge |
 | `assets/icons/` | Icône de l'équipe (PNG + ICNS macOS) |
 
 ![Maquette desktop — accueil](assets/screenshots/maquette-desktop.png)
+
+## Figma
+
+Maquettes et prototypes mis en forme dans Figma : [Hack-VS Bat-ID](https://www.figma.com/design/tfyEVyPFbpqG3g6kquxmNm/ULTIME-Final?node-id=39-1008&t=PkQjRuBHUz6rBjRk-1) (mot de passe : `hackvs`).
 
 ## Contexte
 
